@@ -1,3 +1,4 @@
+// hello Ruby :)
 import java.util.Scanner;
 
 public class NumberGuessing
